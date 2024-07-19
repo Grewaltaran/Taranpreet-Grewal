@@ -1,6 +1,8 @@
 #Taranpreet-Grewal
+
 class:- B.tech in computer science 
 Age:- 19
+
 Hobbies:- listen music 
 
 |subject| obtained marks|
